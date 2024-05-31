@@ -1,0 +1,16 @@
+{
+	"compileOnSave": true, //在vscode中不起作用
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "ESNext",
+		"sourceMap": true,
+
+		"experimentalDecorators": true, //启用Decorator
+		"emitDecoratorMetadata": true, //
+
+		"noImplicitAny": true, //
+		"strict":true,
+		
+		"esModuleInterop": true,
+	}
+}
